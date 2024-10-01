@@ -29,9 +29,6 @@ input::-webkit-inner-spin-button {
 }
 
 /* Firefox */
-input[type=number] {
-  -moz-appearance: textfield;
-}
   html{
     background: #101010;
     
@@ -1273,11 +1270,7 @@ form button:hover{
 
 Mobile
 
-
 */
-
-
-
 
 
 @media only screen and (max-width: 550px){
